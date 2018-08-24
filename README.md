@@ -1,1 +1,1 @@
-# Collaborative-Filtering-based-Recommendor-System
+# Collaborative-Filtering-based-Recommender-System
